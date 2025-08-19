@@ -160,15 +160,11 @@ const Contact = () => {
 
             <Card className="p-6 border-border/50">
               <CardContent className="p-0">
-                <h3 className="text-xl font-bold mb-4 text-foreground">Why Choose DataSpark?</h3>
+                <h3 className="text-xl font-bold mb-4 text-foreground">Why Choose Autera?</h3>
                 <ul className="space-y-3">
                   <li className="flex items-start">
                     <div className="w-2 h-2 bg-secondary rounded-full mt-2 mr-3 flex-shrink-0"></div>
                     <span className="text-muted-foreground">Enterprise-grade security and privacy</span>
-                  </li>
-                  <li className="flex items-start">
-                    <div className="w-2 h-2 bg-secondary rounded-full mt-2 mr-3 flex-shrink-0"></div>
-                    <span className="text-muted-foreground">Proven track record with Fortune 500 companies</span>
                   </li>
                   <li className="flex items-start">
                     <div className="w-2 h-2 bg-secondary rounded-full mt-2 mr-3 flex-shrink-0"></div>
